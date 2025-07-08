@@ -18,7 +18,6 @@ const Footer: React.FC = () => {
       links: [
         { name: 'Documentation', href: '/docs' },
         { name: 'API Reference', href: '/api' },
-        { name: 'GitHub', href: 'https://github.com' },
         { name: 'Support', href: '/support' }
       ]
     },
@@ -34,7 +33,6 @@ const Footer: React.FC = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com', label: 'GitHub' },
     { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
     { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:contact@zvvoiceai.com', label: 'Email' }
