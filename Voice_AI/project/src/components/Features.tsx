@@ -67,7 +67,7 @@ const Features: React.FC = () => {
             </span>
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            ZV VoiceAI offers cutting-edge voice transformation technology that enables you to clone,
+            Zone Value VoiceAI offers cutting-edge voice transformation technology that enables you to clone,
             convert, and create voices with unprecedented accuracy and realism.
           </p>
         </motion.div>
