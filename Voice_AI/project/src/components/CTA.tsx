@@ -50,7 +50,7 @@ const CTA: React.FC = () => {
             viewport={{ once: true }}
             className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed"
           >
-            Try ZV VoiceAI today and experience the future of voice technology. No credit
+            Try Zone Value VoiceAI today and experience the future of voice technology. No credit
             card required for basic usage.
           </motion.p>
 
