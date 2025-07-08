@@ -96,7 +96,7 @@ const Hero: React.FC = () => {
               transition={{ delay: 0.5, duration: 0.6 }}
               className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl"
             >
-              ZV VoiceAI lets you convert your voice to sound like anyone else, create
+              Zone Value VoiceAI lets you convert your voice to sound like anyone else, create
               realistic text-to-speech, and build custom voice clones with just a few
               seconds of audio.
             </motion.p>
